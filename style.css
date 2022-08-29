@@ -1,0 +1,137 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family:arial;font-size:14px;line-height:18px;color:#000;background: #CFCFD1;}
+
+
+.templete{width:960px;margin:0 auto; }
+.clear{overflow:hidden;}
+.headersection{height:px;;background:#708887;color:#fff;}
+.headersection h2{font-size:40px;padding-top:32px;text-align:center;}
+
+.pic{
+	padding-right: 50px;
+	padding-top: 10px;
+	width: 90%;
+	
+}
+.pic img {
+	height: 110px;
+	width: 110px;
+	float: right;
+	border-radius: 50%;
+	margin-right: 20px;
+	
+	
+}
+.pic h1{
+	font-size: 40px;
+	padding-top: 30px;
+	width: 100%;
+	padding-left: 10px;
+}
+
+.pic p{
+	padding-top: 130px;
+	padding-bottom: 5px;
+	text-align: right;
+	font-size:20px;
+	font-weight: bold;
+	color: #000;
+
+}
+.social{
+
+}
+.social img {
+	width: 40px;
+	float: right;
+	height: 38px;
+	padding: 10px;
+}
+
+
+.navsection{background: #acaaa6;color: #fff;}
+.navsection ul{margin:0;padding:0;list-style:none;width: 100%;}
+.navsection ul li {display:block;float:left;}
+.navsection ul li a {
+	display: block;
+	background: #fff none repeat scroll 0 0;
+	text-decoration: none;
+	padding: 5px 30px;
+	background: #8f8d89;
+	margin: 5px;
+	font-size: 20px;
+	color: #000;
+	border: 1px solid #C49A4C;
+}
+.navsection ul li a:hover{background:#000;color:#fff}
+.contentsection{background:#fff;}
+.maincontent {
+	background: #f3e6d7 none repeat scroll 0 0;
+	float: left;
+	width: 628px;
+	padding: 8px 20px;
+	margin: 15px 15px 15px 0px;
+	border: 1px solid #b7801c;
+	
+}
+
+.samepost h2 {
+	background: #;
+	padding: 10px;
+	border-bottom: 2px solid #465464;
+	margin-bottom: 10px;
+	font-size: 24px;
+}
+.samepost img {
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+	background: #fff;
+	padding: 5px;
+	border: 1px solid;
+}
+.samepost p {
+	font-size: 16px;
+	line-height: 23px;
+	text-align: justify;
+}
+.readmore {
+	float: right;
+	margin-top: 10px;
+}
+.readmore a {
+	text-decoration: none;
+	background: #fff;
+	padding: 4px 8px;
+	display: block;
+	font-size: 15px;
+	color: #333;
+	border: 1px solid #000;
+	border-radius:3px;
+}
+.readmore a:hover{color:red;}
+.sidebar{float: right;
+margin-bottom: 15px;
+padding: 10px;
+width: 255px;
+background: #f3e6d7;
+margin-top: 15px;}
+
+.samesidebar h2:hover{background:#fff;color:#000}
+.samesidebar h2 {
+	background: #e6af4b none repeat scroll 0 0;
+	padding: 10px;
+	color: #333;
+	margin-bottom: 15px;
+	border-bottom: 3px solid #000;
+	padding: 10px;
+}
+.samesidebar p:hover{background:#fff;color:green}
+.samesidebar p{margin-bottom:10px}
+
+.footersection {height:90px;background:#708887;}
+.footersection p{color: #fff;
+	text-align: left;
+	font-size: 15px;
+	padding: 15px;
+	font-family: arial;}
